@@ -1,5 +1,12 @@
 {
-  "name": "thinking-skills",
+  "name": "dev-flow",
   "version": "0.1.0",
-  "description": "Streamlined development workflow skills for Claude Code"
+  "description": "Structured development workflow skills and agents for Claude Code",
+  "author": {
+    "name": "AerionDyseti",
+    "url": "https://github.com/AerionDyseti"
+  },
+  "repository": "https://github.com/aeriondyseti/aerion-dyseti-plugins",
+  "license": "MIT",
+  "keywords": ["workflow", "code-review", "planning", "debugging", "agents"]
 }
