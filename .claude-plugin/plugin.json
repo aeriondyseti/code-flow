@@ -6,7 +6,7 @@
     "name": "AerionDyseti",
     "url": "https://github.com/AerionDyseti"
   },
-  "repository": "https://github.com/AerionDyseti/aeriondyseti-plugins",
+  "repository": "https://github.com/aeriondyseti/code-flow",
   "license": "MIT",
   "keywords": ["workflow", "spec-driven", "discovery", "code-review", "agents"]
 }
